@@ -1,0 +1,14 @@
+
+
+
+
+
+2. querySelector
+This is also a single element sector, which is used to select any HTML element it can be ID, Class, Element.It returns only the first element.
+Syntax:
+- document.querySelector(".class")
+- document.querySelector("#Id")
+- document.querySelector("tag")
+
+Now the element with the class name "text" will be green.
+ 
